@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.btn-click{
+background-color:green;
+color:aliceblue;
+border: 2px solid red;
+font: size 20px;
+border-radius: 6px;
+padding: 10px;
+cursor: pointer;
+
+
+
+}
+
+.btn-Reiniciar{
+ background-color: blanchedalmond;
+ color:hwb(0 0% 100%);
+border: 2px solid rgb(170, 0, 255);
+font: size 20px;
+border-radius: 6px;
+padding: 10px;
+cursor: pointer;
+
+}
